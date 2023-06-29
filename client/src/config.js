@@ -1,0 +1,1 @@
+export const URL = 'https://bpyrr2h29a.execute-api.us-east-2.amazonaws.com/production'
